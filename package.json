@@ -6,7 +6,19 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.18.2",
-    "cors": "^2.8.5"
-  }
+    "cors": "^2.8.6",
+    "express": "^4.22.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/al22020408-glitch/CineAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/al22020408-glitch/CineAPI/issues"
+  },
+  "homepage": "https://github.com/al22020408-glitch/CineAPI#readme",
+  "description": ""
 }
