@@ -18,7 +18,7 @@ let movies = [
     duration: "190 min",
     classification: "A",
     genre: "Animada. Fantasia",
-    image: "https://cineapi-m7vu.onrender.com/movies/images/Barbie.png",
+    image: "https://cineapi-m7vu.onrender.com/images/Barbie.png",
     showtimes: ["14:00", "18:00", "21:30"]
   },
   {
@@ -27,7 +27,7 @@ let movies = [
     duration: "96 min",
     classification: "A",
     genre: "Romance. Comedia",
-    image: "https://cineapi-m7vu.onrender.com/movies/images/Sally.png",
+    image: "https://cineapi-m7vu.onrender.com/images/Sally.png",
     showtimes: ["13:00", "16:30", "20:00"]
   },
   {
@@ -36,7 +36,7 @@ let movies = [
     duration: "90 min",
     classification: "A",
     genre: "Comedia. Romance",
-    image: "https://cineapi-m7vu.onrender.com/movies/images/Serende.png",
+    image: "https://cineapi-m7vu.onrender.com/images/Serende.png",
     showtimes: ["11:00", "13:00", "15:00"]
   },
   {
@@ -45,7 +45,7 @@ let movies = [
     duration: "110 min",
     classification: "B",
     genre: "Comedia. Romance",
-    image: "https://cineapi-m7vu.onrender.com/movies/images/Day.png",
+    image: "https://cineapi-m7vu.onrender.com/images/Day.png",
     showtimes: ["15:00", "19:00"]
   },
   {
@@ -54,7 +54,7 @@ let movies = [
     duration: "105 min",
     classification: "B",
     genre: "Drama. Romance. Comedia",
-    image: "https://cineapi-m7vu.onrender.com/movies/images/27.png",
+    image: "https://cineapi-m7vu.onrender.com/images/27.png",
     showtimes: ["12:00", "14:30", "17:00"]
   }
 ];
